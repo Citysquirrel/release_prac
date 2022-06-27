@@ -54,7 +54,7 @@ jobs:
 #           # add prefix to tags and branches, allowing multiple libraries to be released from the same repository
 #           monorepo-tags: # optional
           # add title pattern to make release PR, defaults to using "chore${scope}: release${component} ${version}"
-          pull-request-title-pattern: "chore${scope}: release${component} ver.${version} ${{ github.event.pull_request.number }}"
+          # pull-request-title-pattern: "chore${scope}: release${component} ver.${version} ${{ github.event.pull_request.number }}"
 #           # mark release as a draft
 #           draft: # optional
 #           # mark pull request as a draft
