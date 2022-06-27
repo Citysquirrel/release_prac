@@ -1,0 +1,19 @@
+{
+  "name": "release_prac",
+  "version": "1.0.0",
+  "description": "테스트1\r 테스트2\r 테스트3\r 테스트4\r 테스트5\r 테스트6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Citysquirrel/release_prac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Citysquirrel/release_prac/issues"
+  },
+  "homepage": "https://github.com/Citysquirrel/release_prac#readme"
+}
