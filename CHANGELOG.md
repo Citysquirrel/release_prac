@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/Citysquirrel/release_prac/compare/v1.2.0...v1.3.0) (2022-06-27)
+
+
+### Features
+
+* init package.json ([13ae89a](https://github.com/Citysquirrel/release_prac/commit/13ae89a9fb918c1fdf82e59e1f4f82bd1a5ef05f))
+
 ## [1.2.0](https://github.com/Citysquirrel/release_prac/compare/v1.1.0...v1.2.0) (2022-06-27)
 
 
