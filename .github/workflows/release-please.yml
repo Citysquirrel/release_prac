@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v3.1.2
-#       - with:
+        with:
 #           # GitHub token for creating and grooming release PRs, defaults to using secrets.GITHUB_TOKEN
 #           token: # optional, default is ${{ github.token }}
 #           # should the PR be proposed from a fork, Default to false
@@ -51,8 +51,8 @@ jobs:
 #           repo-url: # optional, default is 
 #           # add prefix to tags and branches, allowing multiple libraries to be released from the same repository
 #           monorepo-tags: # optional
-#           # add title pattern to make release PR, defaults to using "chore${scope}: release${component} ${version}"
-#           pull-request-title-pattern: # optional, default is 
+          # add title pattern to make release PR, defaults to using "chore${scope}: release${component} ${version}"
+          pull-request-title-pattern: "scope: ${scope}, component: ${component}, version: ${version}"
 #           # mark release as a draft
 #           draft: # optional
 #           # mark pull request as a draft
