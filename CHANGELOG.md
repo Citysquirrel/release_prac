@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.5.2](https://github.com/Citysquirrel/release_prac/compare/v1.5.1...v1.5.2) (2022-06-27)
+
+
+### Bug Fixes
+
+* release test ([30346ed](https://github.com/Citysquirrel/release_prac/commit/30346ed99f8274f3de74b20612a5fe3f7658836d))
+
 ## [1.6.0](https://github.com/Citysquirrel/release_prac/compare/v1.5.0...v1.6.0) (2022-06-27)
 
 
