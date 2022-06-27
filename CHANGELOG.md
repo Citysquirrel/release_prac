@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/Citysquirrel/release_prac/compare/v1.3.0...v1.4.0) (2022-06-27)
+
+
+### Features
+
+* 6th test ([0d09939](https://github.com/Citysquirrel/release_prac/commit/0d09939062c829a1d7223b8513dd24c0f17b2485))
+
 ## [1.3.0](https://github.com/Citysquirrel/release_prac/compare/v1.2.0...v1.3.0) (2022-06-27)
 
 
