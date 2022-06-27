@@ -1,6 +1,6 @@
 {
   "name": "release_prac",
-  "version": "1.6.0",
+  "version": "1.5.0",
   "description": "테스트1\r 테스트2\r 테스트3\r 테스트4\r 테스트5\r 테스트6",
   "main": "index.js",
   "scripts": {
